@@ -1,0 +1,2 @@
+- Run fileAI2.py for PCA
+- Run full_report for results 
