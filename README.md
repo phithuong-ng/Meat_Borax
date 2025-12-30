@@ -1,2 +1,3 @@
 - Run fileAI2.py for PCA
 - Run full_report for results 
+- Run sosanh_knn_randomforest_svm for comparisons . 
